@@ -1,0 +1,28 @@
+{
+  "pensamentos": [
+    {
+      "id": 3,
+      "conteudo": "Angular é o melhor com certeza",
+      "autoria": "Dev Alura",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "Esse e um pensamento de teste",
+      "autoria": "Rod",
+      "modelo": "modelo1",
+      "id": 4
+    },
+    {
+      "conteudo": "Aqui podemos fazer várias coisas",
+      "autoria": "Haha",
+      "modelo": "modelo2",
+      "id": 5
+    },
+    {
+      "conteudo": "e possível redimensionar o tamanho do carda dependendo do tamanho do pensamento, caso ele passe a largura máxima do card, aqui segue palavras aleatorias para esse teste: paz, não, céu, fel, ser, vil, sob, mal, ver, mãe, ter, ego, bem, mas, dom, bom, vir, são, dar, vão, ora, que, era, elo, luz, nós, com, réu, seu, foi, mim, tal, rol, uma, até, lua, hum, por, fim, pós, dor, vis, vez, ato, sol, sem, pai, dia, dou, irá, pro, eis, ler, rua, tez, ode, nem, tão, voz, ajo, fiz, gay, meu, lei, voo, mau, mão, afã, pôr, num, dês, for, rio, olá, daí, cia, sua, lar, jus, fez, ira, via, som, sim, amo, nau, rei, más, tem, uso, jaz, boa, mês, ido, asa, uns, pal, aia, lhe, clã",
+      "autoria": "",
+      "modelo": "modelo1",
+      "id": 6
+    }
+  ]
+}
